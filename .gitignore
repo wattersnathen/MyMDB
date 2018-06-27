@@ -1,0 +1,7 @@
+# IDE related
+.idea
+
+# Python created files
+venv
+**/*/__pycache__
+*.pyc
